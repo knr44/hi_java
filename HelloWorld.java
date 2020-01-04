@@ -4,5 +4,9 @@ public class HelloWorld {
 
     System.out.println("Nagarjuna, Devops");
     System.out.println("Nagarjuna, UK");
+
+    System.out.println("Nagarjuna, dpd");
+    System.out.println("kandula, banglore");
+
   }
 }
